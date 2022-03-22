@@ -4,8 +4,11 @@ My CV as a platform game
 A platform game to be used as my CV.
 
 # 03/22/2022 update #
+
 Player movement half way thru
+
 gravity implemented
+
 configuring the platforms class, colision detection logic and some player movement logic
 
 # to do # 
