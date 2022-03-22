@@ -11,9 +11,15 @@ configuring the platforms class, colision detection logic and some player moveme
 # to do # 
 
 PLAYER MOVEMENT - improve the jump action
+
 PLATFORMS - create different sizes
+
 WIN SCENARIO - Make a job offer, maaybe a HR boss 
+
 IMAGE PLATFORMS - character, change map
+
 DEATH PITS - detect when player get out of the platform and re-start the cicle 
+
 LEVEL CREATION - if applied, probably just to add the boss at the end
+
 FINE-TUNING
