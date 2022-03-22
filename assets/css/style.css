@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+#canvas-game {
+  background-image: url(../imgs/123Z_2101.w026.n002.57B.p1.57.jpg);
+  background-size:cover;
+}
